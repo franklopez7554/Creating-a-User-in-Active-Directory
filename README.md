@@ -1,5 +1,7 @@
 ## Creating a User in Active Directory
+### Link to Loom
 
+<https://loom.com/share/4a48635125434a8da5e6efec8087efab>
 ### Objective
 
 This SOP outlines the steps to create a new user in Active Directory using Windows.
@@ -75,6 +77,4 @@ This SOP outlines the steps to create a new user in Active Directory using Windo
 - Familiarize yourself with the Active Directory interface to navigate quickly.
 - Use a consistent naming convention for user logon names to maintain organization.
 
-### Link to Loom
-
-<https://loom.com/share/4a48635125434a8da5e6efec8087efab># Creating-a-User-in-Active-Directory
+# Creating-a-User-in-Active-Directory
